@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743066468778",
+    "project_id": "assignment-reminder-app-9c00f",
+    "storage_bucket": "assignment-reminder-app-9c00f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743066468778:android:7456e665044f08ad10ebd3",
+        "android_client_info": {
+          "package_name": "com.example.assignment_reminder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoywoHwgip9XF5Urjp9ERSbB-SzoWx-XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
